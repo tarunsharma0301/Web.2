@@ -141,7 +141,6 @@ button:hover {
     100% { box-shadow: 0 0 0 0 rgba(0, 255, 136, 0); }
 }
 
-/* Game Elements */
 .orb {
     position: absolute;
     width: 10px;
